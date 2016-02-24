@@ -1,0 +1,5 @@
+language: objective-c
+osx_image: xcode7.2
+xcode_project: TravisPOC.xcodeproj
+xcode_scheme: TravisPOC
+xcode_sdk: iphonesimulator8.0
